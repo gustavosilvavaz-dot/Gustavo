@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Grid+Single+Ink:wght@100..900&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+:root {
+    --black: #000000ff;
+    --oxford-blue: #14213dff;
+    --orange-web: #fca311ff;
+    --platinum: #e5e5e5ff;
+    --titulo: "PT Serif", serif;
+    --texto: "Bitcount Grid Single Ink", system-ui;
+}
+body {
+    background-color: var(--black);
+    font-family: var(--texto);
+}

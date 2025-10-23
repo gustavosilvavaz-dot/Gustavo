@@ -4,24 +4,11 @@
     --black: #000000ff;
     --oxford-blue: #14213dff;
     --orange-web: #fca311ff;
-    --platinum: rgba(229, 229, 229, 0.295);
+    --platinum: #e5e5e5ff;
     --titulo: "PT Serif", serif;
     --texto: "Bitcount Grid Single Ink", system-ui;
 }
 body {
     background-color: var(--black);
     font-family: var(--texto);
-    margin: 0;
-    padding: 0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
- main{
-     margin-top: 20px;
-     max-width: 90%;
-     text-align: center;
- }
- button{
-
- }
